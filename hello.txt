@@ -1,4 +1,5 @@
 Hello, world
 Hola, mundo
 Bonjour, monde
-ciao mondo
+Ciao, mondo
+Hallo, Welt
